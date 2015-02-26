@@ -10,7 +10,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily Add Custom Css or Js files in your Sites by using this plugin.
+Easily Add Custom Css or Js files in header or footer in your Sites without editing your themes by using this plugin.
 
 
 == Description ==
