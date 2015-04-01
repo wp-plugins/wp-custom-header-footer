@@ -15,6 +15,8 @@ Easily Add Custom Css or Js files in header or footer in your Sites without edit
 
 == Description ==
 
+### WP Custom Header Footer by http://themeroad.net
+
 WP Custom header Footer plugin allows you to easily add cusom css or js files in your sites  by using this plugin easily.So, no need to editing your theme files to add custom js or css files. So, enjoy easy site maintaing and always keep with us using our plugin and don't forget to rate us.
 
 
