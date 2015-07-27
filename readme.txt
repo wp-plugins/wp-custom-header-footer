@@ -67,9 +67,7 @@ Installation Video Tutorial:
 * [Our Premium Plugins](http://themeroad.net/154-2/)
  * [TR WP Custom Login](http://themeroad.net/Products/wp-custom-login-page/)
  * [TR Advanced Price Plan Pro](http://themeroad.net/Products/tr-price-plan-pro/)
- * [TR WooCommerce Image Zoom PRO](http://themeroad.net/Products/tr-woocommerce-image-
-
-zoom-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/Products/tr-woocommerce-image-zoom-pro/)
  * [TR Carousel Slider Pro](http://themeroad.net/Products/tr-carousel-slider-pro-4/)
  * [TR Logo Slider Pro](http://themeroad.net/Products/tr-logo-slider-pro/)
  * [TR Filterable Portfolio Pro](http://themeroad.net/Products/204/)
